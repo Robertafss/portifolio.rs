@@ -34,6 +34,10 @@ body {
 .second-text {
   color: #828fa1;
 }
+h1{
+    text-align: center;
+    color: rgb(38, 17, 126);
+}
 
 .media-card1 {
   background: url(https://cdn.leonardo.ai/users/01e48e0a-0d7f-44c2-8dc7-c0e5a830c5d1/generations/82e5ab39-271c-4885-9314-a14638378a03/DreamShaper_v7_Experience_the_epic_battle_between_good_and_evi_1.jpg) center/cover;
@@ -72,7 +76,17 @@ body {
     height: 250px;
     width: 100%;
   }
-
+  .media-card8 {
+    background: url(https://cdn.leonardo.ai/users/5778ec03-91a6-4609-9880-d394d397798b/generations/9622aa9c-3ce9-4d9d-b5f4-b55952433b94/variations/Default_midshot_celshading_style_centered_image_ultra_detailed_0_9622aa9c-3ce9-4d9d-b5f4-b55952433b94_1.jpg?w=512) center/cover;
+    height: 250px;
+    width: 100%;
+  }
+  .media-card9 {
+    background: url(https://cdn.leonardo.ai/users/398c4ebe-400d-4db6-b486-1cd70c13605b/generations/64fc0940-180e-4673-8dd0-2957d0284e14/Absolute_Reality_v16_Donald_trump_as_Aquaman_portrait_0.jpg?w=512) center/cover;
+    height: 250px;
+    width: 100%;
+  }
+ 
 .bottom-card {
   padding: 20px;
 }
