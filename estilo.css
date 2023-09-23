@@ -4,6 +4,10 @@ body {
   font-family: "Roboto", sans-serif;
 
 }
+hr{
+    background-color: rgb(70, 9, 87);
+    height: 5px;
+}
 
 .content {
   display: flex;
@@ -29,6 +33,7 @@ body {
 
 .title {
   color: #2b3d59;
+  text-align: center;
 }
 
 .second-text {
