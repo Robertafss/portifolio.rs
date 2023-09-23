@@ -2,6 +2,7 @@
 
 body {
   font-family: "Roboto", sans-serif;
+
 }
 
 .content {
@@ -51,6 +52,26 @@ body {
   height: 250px;
   width: 100%;
 }
+.media-card4 {
+    background: url(https://cdn.leonardo.ai/users/2d9149df-2103-47b3-8c34-be61b8920705/generations/432173e4-1367-4bee-a968-2bc485377108/variations/Default_midshot_celshading_style_centered_image_ultra_detailed_3_432173e4-1367-4bee-a968-2bc485377108_1.jpg?w=512) center/cover;
+    height: 250px;
+    width: 100%;
+  }
+  .media-card5 {
+    background: url(https://cdn.leonardo.ai/users/2b4dbbb3-c3f4-45a9-a675-33148ef5ed0f/generations/1e504a21-5c97-4b6e-91af-889441229ecc/variations/Default_midshot_celshading_style13_centered_image_ultra_detail_1_1e504a21-5c97-4b6e-91af-889441229ecc_1.jpg?w=512) center/cover;
+    height: 250px;
+    width: 100%;
+  }
+  .media-card6 {
+    background: url(https://cdn.leonardo.ai/users/2b4dbbb3-c3f4-45a9-a675-33148ef5ed0f/generations/e04e5921-fa38-40a3-8209-065d4fab0135/variations/Default_midshot_celshading_style13_centered_image_ultra_detail_0_e04e5921-fa38-40a3-8209-065d4fab0135_1.jpg?w=512) center/cover;
+    height: 250px;
+    width: 100%;
+  }
+  .media-card7 {
+    background: url(https://cdn.leonardo.ai/users/5778ec03-91a6-4609-9880-d394d397798b/generations/985e65b1-6810-4b2a-9f30-9088626dbbe8/variations/Default_midshot_celshading_style_centered_image_ultra_detailed_0_985e65b1-6810-4b2a-9f30-9088626dbbe8_1.jpg) center/cover;
+    height: 250px;
+    width: 100%;
+  }
 
 .bottom-card {
   padding: 20px;
